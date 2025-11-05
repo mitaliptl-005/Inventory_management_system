@@ -1,0 +1,21 @@
+UniqueId,Name,Type,Owner,Occupation,Autographed,Year,Condition,StartingPrice
+M001,Michael Jordan Jersey,Jersey,John Smith,Athlete,No,12-03-1996,Excellent,50000
+M002,Elvis Presley Guitar,Guitar,Mary Adams,Musician,Yes,25-07-1970,Good,120000
+M003,Marilyn Monroe Dress,Dress,David Lee,Actress,No,04-11-1955,Very Good,abc
+M004,Albert Einstein Notebook,Book,Emily Davis,Scientist,Yes,19-02-1921,Excellent,200000
+M005,"Princess Diana Tiara,Jewelry,Anna Brown,Royalty,No,30-08-1981,Good,150000
+M006,John Lennon Guitar,Guitar,Paul Harris,Musician,Yes,14-06-1968,Good,100000
+M007,Serena Williams Tennis Racket,Racket,James White,Athlete,Yes,07-09-2010,Excellent,40000
+M008,Leonardo da Vinci Sketch,Art,Laura Green,Artist,No,21-04-1503,Excellent
+M009,Mahatma Gandhi Letter,Document,Robert King,Politician,Yes,11-10-1930,Good,250000
+M010,Babe Ruth Baseball,Baseball,Tom Black,Athlete,Yes,03-05-1927,Good,180000
+M011,Football,Sports,John Smith,Athlete,Yes,12-03-2022,Excellent,150000
+M012,Mozart Sheet Music,Music,Clara Hill,Composer,No,27-01-1782,Excellent,90000
+M013,Wright Brothers Model Plane,Model,Henry Young,Inventor,Yes,17-12-1903,Very Good,60000
+M014,Vincent van Gogh Painting,Art,Sophie Clark,Artist,No,12-06-1889,Excellent,500000
+M015,Winston Churchill Speech Notes,Document,George Martin,Politician,Yes,15-05-1940,Good,75000
+M016,Muhammad Ali Gloves,Gloves,Robert Scott,Athlete,Yes,25-02-1974,Excellent,120000
+M017,Audrey Hepburn Dress,Dress,Linda Perez,Actress,No,05-03-1961,Very Good,95000
+M018,Neil Armstrong Helmet,Space Gear,Chris Hall,Astronaut,Yes,21-07-1969,Excellent,200000
+M019,Beethoven Violin,Violin,Margaret Allen,Musician,No,16-12-1800,Good,110000
+M020,Cleopatra Necklace,Jewelry,Olivia Johnson,Royalty,No,12-08-2000,Excellent,180000

@@ -1,0 +1,17 @@
+
+===== INVENTORY SUMMARY =====
+Generated On: 2025-11-04 19:03:54
+
+Total Items: 20
+Autographed Items: 11 (55.0%)
+Average Starting Price: $152500.00
+Total Inventory Value: $3050000.00
+Oldest Item: Leonardo da Vinci Sketch (1503-04-21)
+Newest Item: Football (2022-03-12)
+Most Expensive Item: Vincent van Gogh Painting ($500000.0)
+Least Expensive Item: Serena Williams Tennis Racket ($40000.0)
+Price Range: $40000.00 - $500000.00
+Owner with Most Items: John Smith (2)
+Unique Owners: 19
+Highest Priced Autographed Item: Mahatma Gandhi Letter ($250000.0)
+=============================
